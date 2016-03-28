@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Els meus mapes</string>
+    <string name="title_activity_maps">Els meus mapes</string>
+    <string name="cercar">Cercar</string>
+    <string name="animacio_off">Sense animació</string>
+    <string name="animacio_on">Amb animació</string>
+    <string name="INS_BOSC_DE_LA_COMA_STR">INS BOSC DE LA COMA</string>
+    <string name="cache_pois">pois_cache</string>
+    <string-array name="tipusMapa">
+        <item>Normal</item>
+        <item>Satèl·lit</item>
+        <item>Terreny</item>
+        <item>Híbrid</item>
+    </string-array>
+
+</resources>
